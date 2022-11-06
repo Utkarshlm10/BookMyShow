@@ -97,6 +97,6 @@ export default function PaymentModal({ isOpen, setIsOpen, price }) {
           </div>
         </Dialog>
       </Transition>
-    </>
+     </>
   );
 }
